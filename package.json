@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "author": "Slashbinslashnoname <slashbinslashnoname@gmail.com>",
-  "scripts":{
-    "start":"node index.js"
+  "scripts": {
+    "start": "node index.js"
   },
   "license": "ISC",
   "dependencies": {
