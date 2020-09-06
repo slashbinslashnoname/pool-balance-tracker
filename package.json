@@ -1,0 +1,15 @@
+{
+  "name": "pool-balance-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Slashbinslashnoname <slashbinslashnoname@gmail.com>",
+  "scripts":{
+    "start":"node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "terminal-table": "0.0.12"
+  }
+}
